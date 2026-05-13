@@ -121,9 +121,9 @@ class SaiPavan:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SaiPavankumar22&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=SaiPavankumar22&theme=tokyonight&hide_border=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiPavankumar22&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiPavankumar22&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
